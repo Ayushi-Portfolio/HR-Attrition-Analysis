@@ -15,8 +15,8 @@ Analyzed Employee attrition data to identify the facts affecting employee turnov
 - Department wise Attrition
 
 ## Dashboard
- ![Dashboard_overview](dashboard_overview.png)
- ![dashboard_Analysis](dashboard_analysis.png)
+ ![Dashboard_Overview](Dashboard_Overview.png)
+ ![Dashboard_Analysis](Dashboard_Analysis.png)
 
 ## Insights
 
